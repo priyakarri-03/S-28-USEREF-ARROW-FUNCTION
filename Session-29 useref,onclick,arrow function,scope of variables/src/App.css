@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: coral;
+  display: inline-block;
+}
+form label{
+  display: inline-block;
+  width: 400px;
+  font-size: 1.5rem;
+  
+
+
+}
+form div{
+  margin:15px
+}
